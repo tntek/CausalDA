@@ -1,5 +1,5 @@
 
-# MMGA
+# CausalDA
 <!-- 
 Code (pytorch) for ['Unified Source-Free Domain Adaptation']() on Digits(MNIST, USPS, SVHN), Office-Home, VisDA-C, domainnet126.  
 -->
