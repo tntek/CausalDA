@@ -30,21 +30,7 @@ We provide config files for experiments.
 
 ### Target
 After obtaining the source models, modify your source model directory. 
-
-For office-home. 
-```bash
-bash test_32.sh
-```
-
-For VISDA-C.
-```bash
-bash test_32.sh
-```
-For domainnet126. 
-```bash
-bash test_32.sh
-```
-You can also  refer to the file on [run.sh](./run.sh).
+You can also  refer to the file on [run.sh](./test_32.sh).
 
 
 
